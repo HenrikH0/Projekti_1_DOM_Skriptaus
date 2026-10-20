@@ -1,6 +1,6 @@
 # Projektin nimi
 
-**Tekijä(t):** Kirjoita tähän oma nimesi / tekijöiden nimet
+**Tekijä(t):** Henrik Heiskanen / Jani Skogster
 
 ## Projektisuunnitelma
 
