@@ -12,8 +12,8 @@ Kuvaile lyhyesti, mitä sovelluksesi tekee ja kenelle se on tarkoitettu.
 
 Listaa vähintään kolme sovellukseesi suunniteltua toimintoa:
 
-- Toiminto 1
-- Toiminto 2
+- Toiminto 1 hover efekti
+- Toiminto 2 onclick tapahtuma
 - Toiminto 3
 
 ### Rautalankamalli / luonnos
