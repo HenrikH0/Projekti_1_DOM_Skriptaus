@@ -65,7 +65,7 @@ Projektissa käytettiin seuraavia teknologioita:
 
 Toimivasta sovelluksesta kuvakaappaus
 
-![Kuvakaappaus sovelluksesta](img/toimivasovellus.png)
+![Kuvakaappaus sovelluksesta](img/sovellus.png)
 
 ## Tunnetut virheet / puutteet
 
