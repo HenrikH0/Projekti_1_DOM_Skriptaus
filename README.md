@@ -6,15 +6,16 @@
 
 ### Projektin idea
 
-Kuvaile lyhyesti, mitä sovelluksesi tekee ja kenelle se on tarkoitettu.
+Kotityö TODO -sovellus on yksinkertainen verkkosovellus, jonka avulla käyttäjä voi lisätä ja seurata omia kotitöitään. 
+Sovellus on tarkoitettu henkilöille, jotka haluavat pitää kodin tehtävät järjestyksessä ja seurata, mitkä tehtävät ovat vielä tekemättä.
 
 ### Suunnitellut toiminnot
 
-Listaa vähintään kolme sovellukseesi suunniteltua toimintoa:
-
-- Toiminto 1 hover efekti
-- Toiminto 2 onclick tapahtuma
-- Toiminto 3
+- Toiminto 1: Käyttäjä voi lisätä uusia kotitöitä lomakkeen avulla tehtävälistalle.
+- Toiminto 2: Käyttäjä voi merkitä tehtävän tehdyksi tai palauttaa sen aktiiviseksi.
+- Toiminto 3: Käyttäjä voi poistaa tehtäviä listalta.
+- Toiminto 4: Sovellus tallentaa tehtävät selaimen localStorageen.
+- Toiminto 5: Käyttäjä voi suodattaa näkyviin kaikki, aktiiviset tai valmiit tehtävät.
 
 ### Rautalankamalli / luonnos
 
@@ -27,32 +28,34 @@ Esimerkki kuvan lisäämisestä:
 ## Verkkolinkit
 
 - **Julkaistu sovellus:** [Lisää tähän GitHub Pages -osoite](https://yourusername.github.io/your-repository/)
-- **GitHub-repositorio:** [Lisää tähän repositorion osoite](https://github.com/yourusername/your-repository)
+- **GitHub-repositorio:** [Lisää tähän repositorion osoite](https://github.com/HenrikH0/Projekti_1_DOM_Skriptaus)
 - **Projektin videoesittely:** [Lisää tähän videon osoite](https://example.com/)
 
 ## Tietoja sovelluksesta
 
-**[Projektin nimi]** on verkkosovellus, joka ...
+**Kotityö TODO -lista** on verkkosovellus, jonka tarkoituksena on auttaa käyttäjää hallitsemaan kodin päivittäisiä tehtäviä.
 
-Kuvaile lyhyesti sovelluksen tarkoitus ja tärkeimmät toiminnot.
+Sovelluksessa käyttäjä voi lisätä esimerkiksi siivoukseen tai muihin kodin ylläpitotehtäviin liittyviä tehtäviä. Tehtävät voidaan merkitä tehdyiksi tai poistaa listalta. Sovellus tallentaa käyttäjän tehtävät selaimeen, joten tiedot säilyvät myös sivun päivittämisen jälkeen.
 
 ## Teknologiat
 
-Kuvaile, mitä teknologioita käytit ja mikä niiden rooli oli projektissasi.
+Projektissa käytettiin seuraavia teknologioita:
 
-- HTML – sivun rakenne
-- CSS – ulkoasu ja asettelu
-- JavaScript – toiminnallisuus, DOM-skriptaus ja lomakkeiden validointi
-- localStorage – tietojen tallentaminen selaimeen, jos käytit sitä
+- **HTML** – Sivun rakenne ja lomakkeen luominen.
+- **CSS** – Sovelluksen ulkoasu, elementtien asettelu ja tyylittely.
+- **JavaScript** – Sovelluksen toiminnallisuus, DOM-skriptaus, tapahtumien käsittely ja lomakkeen validointi.
+- **localStorage** – Tehtävien tallentaminen selaimen muistiin.
+
 
 ## Sovelluksen käyttö
 
-Kirjoita lyhyet käyttöohjeet sovellukselle.
-
-1. Avaa julkaistu sovellus yllä olevasta linkistä.
-2. Täytä lomakkeen kentät.
-3. Lisää, muokkaa, poista tai merkitse kohteita tehdyiksi.
-4. Päivitä sivu ja tarkista, säilyvätkö tiedot selaimessa, jos käytit localStoragea.
+1. Avaa julkaistu sovellus selaimessa.
+2. Kirjoita kotityö tekstikenttään.
+3. Paina "Lisää"-painiketta.
+4. Uusi tehtävä ilmestyy tehtävälistalle.
+5. Merkitse tehtävä tehdyksi painamalla ✔-painiketta.
+6. Poista tehtävä painamalla 🗑-painiketta.
+7. Käytä suodatusnappeja nähdäksesi kaikki, aktiiviset tai valmiit tehtävät.
 
 ## Sovelluksen käynnistäminen paikallisesti
 
@@ -62,17 +65,13 @@ Kirjoita lyhyet käyttöohjeet sovellukselle.
 
 ## Kuvakaappaukset
 
-Lisää tähän vähintään yksi kuvakaappaus toimivasta sovelluksestasi.
-
-Esimerkki kuvan lisäämisestä:
+Toimivasta sovelluksesta kuvakaappaus
 
 ![Kuvakaappaus sovelluksesta](img/ToimivaSovellus.png)
 
 ## Tunnetut virheet / puutteet
 
-Kerro, jos sovelluksessa on tunnettuja virheitä, puuttuvia toimintoja tai muita rajoituksia.
-
-Jos tunnettuja virheitä ei ole, kirjoita: **Ei tunnettuja virheitä.**
+**Ei tunnettuja virheitä.**
 
 ## Työn jakautuminen
 
