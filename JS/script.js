@@ -4,10 +4,13 @@ const list = document.getElementById("todoList");
 const error = document.getElementById("error");
 const counter = document.getElementById("counter");
 
+// Toiminto 3: Sovellus tallentaa tehtävät selaimen localStorageen
+// Haetaan aikaisemmin tallennetut tehtävät selaimesta
 let todos = JSON.parse(localStorage.getItem("todos")) || [];
 
 render();
 
+// Toiminto 1: Käyttäjä voi lisätä uusia kotitöitä lomakkeen avulla tehtävälistalle
 form.addEventListener("submit", function(e){
     e.preventDefault();
 
@@ -61,6 +64,8 @@ function render(filter="all"){
         const doneBtn=document.createElement("button");
         doneBtn.textContent="✔";
 
+        // Toiminto 2: Käyttäjä voi merkitä tehtävän tehdyksi tai palauttaa sen aktiiviseksi
+
         doneBtn.onclick=function(){
             todo.done=!todo.done;
             save();
@@ -68,6 +73,8 @@ function render(filter="all"){
 
         const deleteBtn=document.createElement("button");
         deleteBtn.textContent="🗑";
+
+        // Toiminto 3: Käyttäjä voi poistaa tehtäviä listalta
 
         deleteBtn.onclick=function(){
             todos.splice(index,1);
@@ -87,10 +94,14 @@ function render(filter="all"){
     counter.textContent=activeCount;
 }
 
+// Toiminto 4: Sovellus tallentaa tehtävät selaimen localStorageen
+
 function save(){
     localStorage.setItem("todos",JSON.stringify(todos));
     render();
 }
+
+// Toiminto 5: Käyttäjä voi suodattaa näkyviin kaikki, aktiiviset tai valmiit tehtävät
 
 document.getElementById("showAll").onclick=function(){
     render("all");
