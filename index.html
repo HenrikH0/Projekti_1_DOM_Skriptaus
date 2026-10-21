@@ -1,15 +1,35 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fi">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="CSS/styles.css">
-    <script src="JS/script.js" defer></script>
-
-    <h1>Hello, World!</h1>
-    <p>test</p>
+    <title>Kotityö TODO</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
 </head>
 <body>
+
+<div class="container">
+    <h1>Kotityölista</h1>
+
+    <form id="todoForm">
+        <input type="text" id="taskInput" placeholder="Lisää kotityö...">
+        <button type="submit">Lisää</button>
+    </form>
+
+    <p id="error"></p>
+
+    <h3>Avoimia tehtäviä: <span id="counter">0</span></h3>
+
+    <div class="buttons">
+        <button id="showAll">Kaikki</button>
+        <button id="showActive">Aktiiviset</button>
+        <button id="showDone">Valmiit</button>
+    </div>
+
+    <ul id="todoList"></ul>
+</div>
+
 </body>
 </html>
+
