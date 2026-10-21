@@ -100,8 +100,8 @@ Jos käytit ChatGPT:tä, GitHub Copilotia tai muuta tekoälytyökalua, mainitse 
 
 - [Lähteen tai tutoriaalin nimi](https://example.com/)
 - [Kuvalähde](https://example.com/)
-- Käytetty tekoälytyökalu: ...
-- Miten työkalua käytettiin: ...
+- Käytetty tekoälytyökalu: ChatGPT
+- Miten työkalua käytettiin: Löytämään virhe koodia
 
   ## Lisenssi
 
