@@ -65,7 +65,7 @@ Projektissa käytettiin seuraavia teknologioita:
 
 Toimivasta sovelluksesta kuvakaappaus
 
-![Kuvakaappaus sovelluksesta](img/ToimivaSovellus.png)
+![Kuvakaappaus sovelluksesta](img/toimivasovellus.png)
 
 ## Tunnetut virheet / puutteet
 
@@ -77,8 +77,8 @@ Toimivasta sovelluksesta kuvakaappaus
 
 Kuvaile, miten työ jakautui ja miten yhteistyö sujui.
 
-- Tekijä 1: ...
-- Tekijä 2: ...
+- Henrik Heiskanen: ...
+- Jani Skogster: ...
 
 ## Oma arvio ja oppimisen reflektointi
 
