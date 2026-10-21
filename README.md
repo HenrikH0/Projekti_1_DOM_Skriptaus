@@ -19,15 +19,13 @@ Sovellus on tarkoitettu henkilöille, jotka haluavat pitää kodin tehtävät j�
 
 ### Rautalankamalli / luonnos
 
-Lisää tähän kuva käsin piirtämästäsi tai digitaalisesti tehdystä sovelluksen luonnoksesta. Luonnoksessa tulee näkyä sovelluksen pääasiallinen näkymä ja tärkeimmät elementit.
+Tässä meidän rautalankamallimme.
 
-Esimerkki kuvan lisäämisestä:
-
-![Rautalankamalli]
+![Rautalankamalli](img/rautalankamalli.png)
 
 ## Verkkolinkit
 
-- **Julkaistu sovellus:** [Lisää tähän GitHub Pages -osoite](https://yourusername.github.io/your-repository/)
+- **Julkaistu sovellus:** [Lisää tähän GitHub Pages -osoite](https://henrikh0.github.io/Projekti_1_DOM_Skriptaus/)
 - **GitHub-repositorio:** [Lisää tähän repositorion osoite](https://github.com/HenrikH0/Projekti_1_DOM_Skriptaus)
 - **Projektin videoesittely:** [Lisää tähän videon osoite](https://example.com/)
 
@@ -102,7 +100,7 @@ Jos käytit ChatGPT:tä, GitHub Copilotia tai muuta tekoälytyökalua, mainitse 
 - [Lähteen tai tutoriaalin nimi](https://example.com/)
 - [Kuvalähde](https://example.com/)
 - Käytetty tekoälytyökalu: ...
-  - Miten työkalua käytettiin: ...
+- Miten työkalua käytettiin: ...
 
   ## Lisenssi
 
