@@ -22,7 +22,7 @@ Lisää tähän kuva käsin piirtämästäsi tai digitaalisesti tehdystä sovell
 
 Esimerkki kuvan lisäämisestä:
 
-![Rautalankamalli](img/wireframe.png)
+![Rautalankamalli](img/Näyttökuva 2026-10-21 210627.png)
 
 ## Verkkolinkit
 
