@@ -4,7 +4,7 @@ const list = document.getElementById("todoList");
 const error = document.getElementById("error");
 const counter = document.getElementById("counter");
 
-// Toiminto 3: Sovellus tallentaa tehtävät selaimen localStorageen
+// Toiminto 4: Sovellus tallentaa tehtävät selaimen localStorageen
 // Haetaan aikaisemmin tallennetut tehtävät selaimesta
 let todos = JSON.parse(localStorage.getItem("todos")) || [];
 
