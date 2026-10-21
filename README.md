@@ -78,7 +78,7 @@ Toimivasta sovelluksesta kuvakaappaus
 Kuvaile, miten työ jakautui ja miten yhteistyö sujui.
 
 - Henrik Heiskanen: javascript toiminnot 1, 2 + css 
-- Jani Skogster: ...
+- Jani Skogster: javascript toiminnot 3, 4, 5 + html
 - Ideointi yhdessä
 ## Oma arvio ja oppimisen reflektointi
 
