@@ -77,9 +77,9 @@ Toimivasta sovelluksesta kuvakaappaus
 
 Kuvaile, miten työ jakautui ja miten yhteistyö sujui.
 
-- Henrik Heiskanen: ...
+- Henrik Heiskanen: javascript toiminnot 1, 2 + css 
 - Jani Skogster: ...
-
+- Ideointi yhdessä
 ## Oma arvio ja oppimisen reflektointi
 
 Pohdi työtäsi ja oppimisprosessiasi.
