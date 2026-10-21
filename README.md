@@ -27,7 +27,6 @@ Tässä meidän rautalankamallimme.
 
 - **Julkaistu sovellus:** [Lisää tähän GitHub Pages -osoite](https://henrikh0.github.io/Projekti_1_DOM_Skriptaus/)
 - **GitHub-repositorio:** [Lisää tähän repositorion osoite](https://github.com/HenrikH0/Projekti_1_DOM_Skriptaus)
-- **Projektin videoesittely:** [Lisää tähän videon osoite](https://example.com/)
 
 ## Tietoja sovelluksesta
 
