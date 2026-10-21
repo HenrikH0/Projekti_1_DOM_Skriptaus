@@ -84,12 +84,13 @@ Kuvaile, miten työ jakautui ja miten yhteistyö sujui.
 
 Pohdi työtäsi ja oppimisprosessiasi.
 
-- Missä onnistuin?
-- Mikä oli haastavaa?
-- Mitä parantaisin, jos aikaa olisi enemmän?
-- Mitä opin HTML:stä, CSS:stä, JavaScriptistä ja DOM-skriptauksesta?
-- Mikä jäi epäselväksi tai mistä haluaisin oppia lisää?
-- Oma arvio projektista: **xx/10 pistettä**
+yhteinen reflektointi
+- Missä onnistuimme? -> Onnistuimmen luomaan toimivan verkkosivun
+- Mikä oli haastavaa? -> Haastavaa oli meille virhe koodien löytäminen
+- Mitä parantaisimme, jos aikaa olisi enemmän? -> Parempi visuaalisuus
+- Mitä opimme HTML:stä, CSS:stä, JavaScriptistä ja DOM-skriptauksesta? Opimme hyödyntämää tuntitehtävien aiheita ja käyttämään localStoragea
+- Mikä jäi epäselväksi tai mistä haluaisimme oppia lisää? Miten tehdä visuallisesti mielyttävämpi
+- Arvio projektistamme: **7/10 pistettä**
 
 ## Lähteet ja kiitokset
 
