@@ -88,15 +88,11 @@ yhteinen reflektointi
 - Missä onnistuimme? -> Onnistuimmen luomaan toimivan verkkosivun
 - Mikä oli haastavaa? -> Haastavaa oli meille virhe koodien löytäminen
 - Mitä parantaisimme, jos aikaa olisi enemmän? -> Parempi visuaalisuus
-- Mitä opimme HTML:stä, CSS:stä, JavaScriptistä ja DOM-skriptauksesta? Opimme hyödyntämää tuntitehtävien aiheita ja käyttämään localStoragea
-- Mikä jäi epäselväksi tai mistä haluaisimme oppia lisää? Miten tehdä visuallisesti mielyttävämpi
+- Mitä opimme HTML:stä, CSS:stä, JavaScriptistä ja DOM-skriptauksesta? -> Opimme hyödyntämää tuntitehtävien aiheita ja käyttämään localStoragea
+- Mikä jäi epäselväksi tai mistä haluaisimme oppia lisää? -> Miten tehdä visuallisesti mielyttävämpi
 - Arvio projektistamme: **7/10 pistettä**
 
 ## Lähteet ja kiitokset
-
-Listaa kaikki projektissa käyttämäsi lähteet, tutoriaalit, kuvat ja koodiesimerkit.
-
-Jos käytit ChatGPT:tä, GitHub Copilotia tai muuta tekoälytyökalua, mainitse se tässä ja kerro lyhyesti, miten se tuki työskentelyäsi.
 
 - Käytetty tekoälytyökalu: ChatGPT
 - Miten työkalua käytettiin: Löytämään virhe koodia
